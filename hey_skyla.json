@@ -3,7 +3,7 @@
   "wake_word": "Hey Skyla",
   "author": "Steven Wooding",
   "website": "https://stevenwooding.github.io",
-  "model": "Hey_Skyla.tflite",
+  "model": "Hey_Skyla_float16.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
